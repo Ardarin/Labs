@@ -12,7 +12,7 @@ int main()
 	boxes = metricTon / ounces;
 	cout << ounces << " ounces is " << converted << " in metric  tons."<<endl;
 	cout << "Boxes needed: " << boxes << endl;
-
+        std::cin.get();
 
 
 	return 0;
