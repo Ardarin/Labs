@@ -23,7 +23,7 @@ int main()
 		backPay = ((previousPay / 2)*increase) / (100);
 		annualPay = ((previousPay*increase) / 100) + previousPay;
 		monthlyPay = annualPay / 12;
-		outStream << name << lastN << "BackPay: " << backPay << "\nAnnual Pay: " << annualPay << "\nMonthly Pay: " << monthlyPay<<"\n";
+		outStream << name << lastN << "\nBackPay: " << backPay << "\nAnnual Pay: " << annualPay << "\nMonthly Pay: " << monthlyPay<<"\n";
 		
 	}
 	
