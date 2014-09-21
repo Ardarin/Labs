@@ -1,0 +1,3 @@
+John Smith: 20000
+Jack Black: 10000	
+Don King: 150000

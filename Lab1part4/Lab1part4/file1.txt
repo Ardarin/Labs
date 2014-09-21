@@ -1,0 +1,9 @@
+JohnSmith:BackPay: 760
+Annual Pay: 21520
+Monthly Pay: 1793.33
+JackBlack:BackPay: 380
+Annual Pay: 10760
+Monthly Pay: 896.667
+DonKing:BackPay: 5700
+Annual Pay: 161400
+Monthly Pay: 13450
